@@ -12,4 +12,5 @@ export default function Alert({ children, type }) {
 		</div>
 	);
 }
-// https://nextjs.org/learn/basics/assets-metadata-css/styling-tips
+// Blog Site - https://nextjs.org/learn/basics/dynamic-routes/render-markdown
+// Documentation - https://nextjs.org/learn/foundations/from-react-to-nextjs/next-steps
